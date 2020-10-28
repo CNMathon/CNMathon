@@ -1,10 +1,10 @@
 # 🏡 埋桑的技术驿站
 
 
-#### 🐱 我的 GitHub 数据
+#### 🐱 Github Status
 ![](https://github-readme-stats.vercel.app/api?username=CNMathon&count_private=true&show_icons=true&theme=tokyonight)
 
-#### 💻 驿站语言占比
+#### 💻 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNMathon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--yuyan
