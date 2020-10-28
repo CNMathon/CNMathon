@@ -1,6 +1,14 @@
-### Hi there 👋
+# 🏡 埋桑的技术驿站
 
-<!--
+### Hi there 👋, 我是埋桑。 ![GitHub followers](https://img.shields.io/github/followers/CNMathon?label=Follow&style=social)
+
+#### 🐱 我的 GitHub 数据
+![](https://github-readme-stats.vercel.app/api?username=CNMathon&count_private=true&show_icons=true&theme=tokyonight)
+
+#### 💻 驿站语言占比
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNMathon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--yuyan
 **CNMathon/CNMathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
