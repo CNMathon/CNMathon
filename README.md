@@ -1,6 +1,8 @@
 # 🏡 埋桑的技术驿站
 
-### Hi there 👋, 我是埋桑。 ![GitHub followers](https://img.shields.io/github/followers/CNMathon?label=Follow&style=social)
+### Hi there 👋, 我是埋桑。
+
+![GitHub followers](https://img.shields.io/github/followers/CNMathon?label=Follow&style=social)
 
 #### 🐱 我的 GitHub 数据
 ![](https://github-readme-stats.vercel.app/api?username=CNMathon&count_private=true&show_icons=true&theme=tokyonight)
