@@ -1,23 +1,8 @@
-# 🏡 埋桑的技术驿站
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CNMathon&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+#### Hello 👏
 
-#### 🐱 Github Status
-![](https://github-readme-stats.vercel.app/api?username=CNMathon&count_private=true&show_icons=true&theme=tokyonight)
+> I'm a Frontend Developer.  
+> Currently working on building the Flutter ecosystem.
 
-#### 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNMathon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--yuyan
-**CNMathon/CNMathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 https://justjavac.com
