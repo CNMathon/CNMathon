@@ -3,6 +3,6 @@
 #### Hello 👏
 
 > I'm a Frontend Developer.  
-> Currently working on building the Flutter ecosystem.
+> Currently working on frontend engineering.
 
 🔗 https://CNMathon.com
